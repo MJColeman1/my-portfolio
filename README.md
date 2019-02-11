@@ -1,2 +1,3 @@
-# my-portfolio
-AWS Cloud Course
+# Mark Coleman's Portfolio (AWS Cloud Course)
+
+It uses AWS and ReactJS.
